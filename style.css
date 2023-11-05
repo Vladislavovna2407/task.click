@@ -1,0 +1,49 @@
+.first, .second, .third, .fourth, .fifth, .sixth {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 3%;
+    text-align: center;
+    margin: 350px auto 0;
+    background-color: #DB7093;
+    line-height: 30px;
+  }
+  
+  span {
+    line-height: 30px;
+  }
+  
+  body {
+    background-color: #FFC0CB;
+  }
+  
+  .second {
+    position: relative;
+    left: 200px;
+    display: none;
+  }
+  
+  .third {
+    position: relative;
+    right: 100px;
+    display: none;
+  }
+  
+  .fourth {
+    position: relative;
+    right: 300px;
+    display: none;
+  }
+  
+  .fifth {
+    position: relative;
+    left: 500px;
+    display: none;
+  }
+  
+  .sixth {
+    position: relative;
+    left: 300px;
+    display: none;
+  }
+
